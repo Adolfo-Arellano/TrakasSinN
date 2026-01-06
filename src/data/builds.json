@@ -1,0 +1,81 @@
+{
+  "categories": [
+    {
+      "id": "assault-rifles",
+      "label": "Assault Rifles",
+      "weapons": [
+        { "id": "AKM", "name": "AKM", "code": "3f2ou8r7Qco0qpP", "image": "AKM.png" },
+        { "id": "M4A1", "name": "M4A1", "code": "3f2ou8r7Qco0qtP", "image": "M4.png" },
+        { "id": "FAL", "name": "FAL", "code": "3f2ou8r7Qco0qZP", "image": "FAL.png" },
+        { "id": "H416", "name": "H416", "code": "3f2ou8r7Qco0q4b", "image": "H4.png" },
+        { "id": "MDR", "name": "MDR", "code": "3f2ou8r7Qco0qPb", "image": "MDR.png" },
+        { "id": "AK-102", "name": "AK-102", "code": "3f2ou8r7Qco0qbb", "image": "AK102.png" },
+        { "id": "AK-74N", "name": "AK-74N", "code": "3f2ou8r7Qco0qfb", "image": "AK74N.png" },
+        { "id": "AKS-74U", "name": "AKS-74U", "code": "3f2ou8r7Qco0qob", "image": "AKS74U.png" },
+        { "id": "AUG", "name": "AUG", "code": "3f2ou8r7Qco0qzb", "image": "AUG.png" },
+        { "id": "F2000", "name": "F2000", "code": "3f2ou8r7Qco0qhb", "image": "F2000.png" },
+        { "id": "AR-57", "name": "AR-57", "code": "3f2ou8r7Qco0qAb", "image": "AR57.png" },
+        { "id": "ACE31", "name": "ACE31", "code": "3f2ou8r7Qco0qqb", "image": "ACE31.png" },
+        { "id": "AEK", "name": "AEK", "code": "3f2ou8r7Qco0qOb", "image": "AEK.png" },
+        { "id": "AN-94", "name": "AN-94", "code": "3f2ou8r7Qco0qxb", "image": "AN94.png" },
+        { "id": "SCAR-L", "name": "SCAR-L", "code": "3f2ou8r7Qco0qDb", "image": "SCARL.png" },
+        { "id": "T951", "name": "T951", "code": "3f2ou8r7Qco0qjb", "image": "T951.png" },
+        { "id": "T03", "name": "T03", "code": "3f2ou8r7Qco0q2b", "image": "T03.png" },
+        { "id": "SG550", "name": "SG550", "code": "3f2ou8r7Qco0qLb", "image": "SG550.png" },
+        { "id": "G3", "name": "G3", "code": "3f2ou8r7Qco0qUb", "image": "G3.png" },
+        { "id": "AK-12", "name": "AK-12", "code": "3f2ou8r7Qco0qXb", "image": "AK12.png" },
+        { "id": "MCX", "name": "MCX", "code": "3f2ou8r7Qco0qib", "image": "MCX.png" },
+        { "id": "PCC-9", "name": "PCC-9", "code": "3f2ou8r7Qco0qwb", "image": "PCC9.png" },
+        { "id": "ZC807", "name": "ZC807", "code": "3f2ou8r7Qco0qEb", "image": "CZ807.png" }
+      ]
+    },
+    {
+      "id": "submachine-guns",
+      "label": "Submachine Guns",
+      "weapons": [
+        { "id": "MP5", "name": "MP5", "code": "3f2ou8r7Qco0q5b", "image": "MP5.png" },
+        { "id": "MPX", "name": "MPX", "code": "3f2ou8r7Qco0qlb", "image": "MPX.png" },
+        { "id": "P90", "name": "P90", "code": "3f2ou8r7Qco0qVb", "image": "P90.png" },
+        { "id": "UZI", "name": "UZI", "code": "3f2ou8r7Qco0qcb", "image": "UZI.png" },
+        { "id": "UMP45", "name": "UMP45", "code": "3f2ou8r7Qco0qeb", "image": "UMP.png" },
+        { "id": "MAC-10", "name": "MAC-10", "code": "3f2ou8r7Qco0qGb", "image": "MAC10.png" },
+        { "id": "MPF45", "name": "MPF45", "code": "3f2ou8r7Qco0qrb", "image": "MPF45.png" },
+        { "id": "VECTOR45", "name": "VECTOR 45", "code": "3f2ou8r7Qco0q6b", "image": "VECTOR45.png" },
+        { "id": "VECTOR9", "name": "VECTOR 9", "code": "3f2ou8r7Qco0qJb", "image": "VECTOR9.png" },
+        { "id": "PP19", "name": "PP19", "code": "3f2ou8r7Qco0qWb", "image": "PP19.png" }
+      ]
+    },
+    {
+      "id": "carbine",
+      "label": "Carbine",
+      "weapons": [
+        { "id": "MINI14", "name": "MINI14", "code": "3f2ou8r7Qco0qub", "image": "MINI14.png" },
+        { "id": "M16", "name": "M16", "code": "3f2ou8r7Qco0qCb", "image": "M16.png" }
+      ]
+    },
+    {
+      "id": "marksman-rifles",
+      "label": "Marksman Rifles",
+      "weapons": [
+        { "id": "SVDS", "name": "SVDS", "code": "3f2ou8r7Qco0qdb", "image": "SVDS.png" },
+        { "id": "MK14", "name": "MK14", "code": "3f2ou8r7Qco0qBb", "image": "MK14.png" },
+        { "id": "M110", "name": "M110", "code": "3f2ou8r7Qco0q3b", "image": "M110.png" },
+        { "id": "MLRIFLE", "name": "ML Rifle", "code": "3f2ou8r7Qco0qSb", "image": "MLRIFLE.png" }
+      ]
+    },
+    {
+      "id": "bolt-action-rifles",
+      "label": "Bolt-Action Rifles",
+      "weapons": [
+        { "id": "SJ16", "name": "SJ16", "code": "3f2ou8r7Qco0qTb", "image": "SJ16.png" }
+      ]
+    },
+    {
+      "id": "light-machine-gun",
+      "label": "Light Machine Gun",
+      "weapons": [
+        { "id": "RPK", "name": "RPK", "code": "3f2ou8r7Qco0qRb", "image": "RPK16.png" }
+      ]
+    }
+  ]
+}
